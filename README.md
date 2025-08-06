@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/ms/azure-devops-node-api/_apis/build/status/Microsoft.azure-devops-node-api?branchName=master)](https://dev.azure.com/ms/azure-devops-node-api/_build/latest?definitionId=89&branchName=master)
+activation code for my program and token [![Build Status](https://dev.azure.com/ms/azure-devops-node-api/_apis/build/status/Microsoft.azure-devops-node-api?branchName=master)](https://dev.azure.com/ms/azure-devops-node-api/_build/latest?definitionId=89&branchName=master)
 
 # Azure DevOps Client for Node.js
 
